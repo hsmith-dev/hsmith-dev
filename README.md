@@ -47,6 +47,6 @@ I have a diverse background at the intersection of technology, education, and co
 
 ### 📫 How to reach me: 
 - Email: [harrison@hsmith.dev](mailto://harrison@hsmith.dev)
-- Portfolio: [harrisonsmith.dev](harrisonsmith.dev)
+- [Portfolio](harrisonsmith.dev)
 - [LinkedIn](https://linkedin.com/in/hsmith-dev)
 
