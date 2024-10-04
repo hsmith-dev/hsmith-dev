@@ -8,6 +8,7 @@ I have a diverse background at the intersection of technology, education, and co
 - [Common Thread](https://commonthreadut.com)
 - [Nomad Alliance](https://nomadalliance.org)
 - [Trophy Cat Games](https://trophycat.games)
+- [Salt Lake Community College](https://github.com/Salt-Lake-Community-College)
 - [Vortex Linux](https://github.com/Vortex-Linux)
 <hr>
 
